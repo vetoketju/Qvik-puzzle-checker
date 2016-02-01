@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Keyboard xmlns:android="http://schemas.android.com/apk/res/android"
+    android:keyHeight="5%p">
+    <Row>
+        <Key android:codes="49"    android:keyLabel="F1" android:keyWidth="30%p" android:keyEdgeFlags="left" />
+        <Key android:codes="102"   android:keyLabel="Fwd" android:keyWidth="30%p" android:horizontalGap="5%p" />
+        <Key android:codes="50"    android:keyLabel="F2" android:keyWidth="30%p" android:horizontalGap="5%p" android:keyEdgeFlags="right" />
+    </Row>
+    <Row>
+        <Key android:codes="108"    android:keyLabel="Left" android:keyWidth="30%p" android:keyEdgeFlags="left" />
+        <Key android:codes="98"    android:keyLabel="Back" android:keyWidth="30%p" android:horizontalGap="5%p" />
+        <Key android:codes="114"    android:keyLabel="Right" android:keyWidth="30%p" android:horizontalGap="5%p" android:keyEdgeFlags="right" />
+    </Row>
+    <Row>
+        <Key android:codes="-5"    android:keyIcon="@android:drawable/ic_input_delete" android:keyWidth="100%p" />
+    </Row>
+</Keyboard>
