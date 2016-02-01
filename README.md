@@ -1,6 +1,6 @@
-# Qvik-puzzle-checker
+# Qvik-puzzle-checker for Android
 
-[Download apk](https://github.com/vetoketju/Qvik-puzzle-checker/releases/download/1.0/app-debug.apk)
+[Download .apk-package](https://github.com/vetoketju/Qvik-puzzle-checker/releases/download/1.0/app-debug.apk)
 
 #### Features
 - Check if a solution works
